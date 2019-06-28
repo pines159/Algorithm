@@ -1,2 +1,5 @@
 # Algorithm
 java
+python
+scala
+
